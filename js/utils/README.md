@@ -1,0 +1,1 @@
+Tempat fungsi utilitas bersama.
